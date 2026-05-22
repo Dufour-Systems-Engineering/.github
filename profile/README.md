@@ -9,7 +9,7 @@
 * **[Allstar Microelectronics Documentation](https://github.com/ddufourtech-bit/allstar-computer-technician-workflows)**
   * *Focus:* Enterprise hardware forensic auditing and standardized technical SOPs.
 
-* **[Enterprise Active Directory Simulation Lab](https://github.com/ddufourtech-bit/ad-ds-homelab-windows-server-2025)**
+* **[Enterprise Active Directory Simulation Lab][(https://github.com/ddufourtech-bit/ad-ds-homelab-windows-server-2025)](https://github.com/Dufour-Systems-Engineering/Enterprise-Active-Directory-Simulation-Lab)**
   * *Focus:* AGDLP, RBAC, and PowerShell-driven automation.
 
 * **[Azure Network Infrastructure Lab](https://github.com/ddufourtech-bit/azure-lab)**
