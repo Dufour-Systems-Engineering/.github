@@ -10,7 +10,7 @@
   * *Focus:* Enterprise hardware forensic auditing and standardized technical SOPs.
 
 - **[Enterprise Active Directory Simulation Lab](https://github.com/Dufour-Systems-Engineering/Enterprise-Active-Directory-Simulation-Lab)**  
-  ○ Focus: AGDLP, RBAC, and PowerShell-driven automation.
+  * *Focus:* AGDLP, RBAC, and PowerShell-driven automation.
 
 * **[Azure Network Infrastructure Lab](https://github.com/ddufourtech-bit/azure-lab)**
   * *Focus:* Cloud architecture, ARM templates, and IaC.
