@@ -12,7 +12,7 @@
 - **[Enterprise Active Directory Simulation Lab](https://github.com/Dufour-Systems-Engineering/Enterprise-Active-Directory-Simulation-Lab)**  
   * *Focus:* AGDLP, RBAC, and PowerShell-driven automation.
 
-* **[Azure Network Infrastructure Lab](https://github.com/ddufourtech-bit/azure-lab)**
+* **[Azure Network Infrastructure Lab](https://github.com/Dufour-Systems-Engineering/Azure-Network-Infrastructure-Lab)**
   * *Focus:* Cloud architecture, ARM templates, and IaC.
 
 ---
