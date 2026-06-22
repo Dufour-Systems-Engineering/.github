@@ -1,6 +1,6 @@
 # David Dufour | Infrastructure Systems & Engineering
 
-**Bridging the gap between hardware-level forensic engineering and automated enterprise systems administration.**
+**Building practical infrastructure skills across hardware diagnostics, identity services, cloud infrastructure, and network administration.**
 
 ---
 
